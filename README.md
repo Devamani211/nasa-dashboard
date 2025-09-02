@@ -29,8 +29,11 @@ npm run dev
 ### 🔧 Frontend Setup
 
 cd client
+
 npm install
+
 npm start
 
-To run the testcase: 
+To run the testcase:
+
 npm run test
