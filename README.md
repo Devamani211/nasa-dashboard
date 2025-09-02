@@ -14,26 +14,28 @@ Nasa dashboard showing full-stack implementations that fetch and display near-Ea
 
 ###  Backend Setup
 
-cd server
+>> cd server
 
-npm install
+>> npm install
 
-touch .env
+>> touch .env
 
 Add your NASA API key to env:
 
-NASA_API_KEY=your_nasa_api_key_here
+>> NASA_API_KEY=your_nasa_api_key_here
 
-npm run dev
+To Run the Front end Application:
+
+>> npm run dev
 
 ### 🔧 Frontend Setup
 
-cd client
+>> cd client
 
-npm install
+>> npm install
 
-npm start
+>> npm start
 
 To run the testcase:
 
-npm run test
+>> npm run test
