@@ -15,10 +15,13 @@ Nasa dashboard showing full-stack implementations that fetch and display near-Ea
 ###  Backend Setup
 
 cd server
+
 npm install
 
 touch .env
+
 Add your NASA API key to env:
+
 NASA_API_KEY=your_nasa_api_key_here
 
 npm run dev
